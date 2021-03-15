@@ -7,39 +7,49 @@ googleAnalytics = ""
 
 [params]
     author = "Calin Tataru"
-    description = "Software Engineer - Hopeless Learner - A Funny Introvert (I think)"
+    description = "Một kỹ sư phần mềm ham học hỏi, thích chạy bộ và sống nội tâm"
     githubUsername = "#"
     accent = "red"
     showBorder = false
     backgroundColor = "white"
-    font = "Raleway" # should match the name on Google Fonts!
+    font = "Arial" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "default"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+    favicon = "img/favicon.ico"
+    
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
 
 [[menu.main]]
     url = "/"
-    name = "Home"
+    name = "\"Nhà\""
     weight = 1
 
 [[menu.main]]
     url = "/about/"
-    name = "About"
+    name = "Về Mình"
     weight = 2
 
 [[menu.main]]
     url = "/tech_post/"
-    name = "Tech Posts"
+    name = "Kỹ Thuật"
     weight = 3
 
 [[menu.main]]
     url = "/though/"
-    name = "Thoughs"
+    name = "Quan Điểm - Suy Nghĩ"
     weight = 4
 
 [[menu.main]]
     url = "/list/"
-    name = "The List"
+    name = "\"Danh Sách Xô\""
     weight = 5
 
 # Social icons to be shown on the right-hand side of the navigation bar.

@@ -1,0 +1,12 @@
+{{ partial "header" . }}
+
+<main>
+
+    <h2>Quan Điểm - Suy Nghĩ</h2>
+
+    {{ range (.Paginator 5).Pages }} {{ partial "list-item" . }} {{ end }}
+
+</main>
+
+{{ partial "paginator" . }}
+{{ partial "footer" . }}
