@@ -1,0 +1,3 @@
+[submodule "theams/minimal"]
+    path = theams/minimal
+    url = "https://github.com/calintat/minimal"
