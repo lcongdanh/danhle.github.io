@@ -4,7 +4,7 @@ date: 2021-03-07T14:30:36+07:00
 draft: false
 ---
 
-"Danh sách xô" là cách dịch cà rỡn của mình của từ Bucket Líst nghĩa là những đều mình muốn làm trước khi chết.
+"Danh sách xô" là cách dịch cà rỡn của mình của từ Bucket List nghĩa là những đều mình muốn làm trước khi chết.
 
 Sau đây là Danh sách xô của mình, nếu bạn muốn gợi ý mình đều gì đừng ngại cho mình biết nhé:
 
@@ -20,3 +20,5 @@ Sau đây là Danh sách xô của mình, nếu bạn muốn gợi ý mình đ�
 10. Thực hiện chuyến du lịch 6 tháng vòng quanh thế giới
 11. Tìm gặp Casey Neistat ở Los Angeles
 12. Thăm Studio Ghibli ở Nhật
+13. Làm thơ đỡ dỡ hơn
+14. Học Violin
