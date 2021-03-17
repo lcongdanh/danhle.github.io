@@ -1,0 +1,40 @@
+backend:
+  name:git-gateway
+  branch:master
+
+media_folder: "static/uploads"
+public_folder: "uploads"
+
+collection:
+  - name: "tech_post"
+    label: "Ky Thuat"
+    folder: "content/tech_post"
+    create: true
+    slugs: "{{year}}-{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string", required: true}
+      - {label: "Publish Date", name: "date", widget: "date"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: true}
+      - {label: "Categories", name: "categories", widget: "string", required: true}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: Author, name: author, widget: hidden, default: Le Danh}
+      - {label: Commenting, name: comments, widget: boolean, default: true}
+      - {label: Sharing, name: share, widget: boolean, default: true}
+      - {label: Type, name: type, widget: hidden, default: "post"}
+      - {label: "Body", name: "body", widget: "markdown"}
+    - name: "thought"
+    label: "Quan Điểm - Suy Nghĩ"
+    folder: "content/thought"
+    create: true
+    slugs: "{{year}}-{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string", required: true}
+      - {label: "Publish Date", name: "date", widget: "date"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: true}
+      - {label: "Categories", name: "categories", widget: "string", required: true}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: Author, name: author, widget: hidden, default: Le Danh}
+      - {label: Commenting, name: comments, widget: boolean, default: true}
+      - {label: Sharing, name: share, widget: boolean, default: true}
+      - {label: Type, name: type, widget: hidden, default: "post"}
+      - {label: "Body", name: "body", widget: "markdown"}
