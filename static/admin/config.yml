@@ -17,7 +17,7 @@ collections:
       - {label: "Publish Date", name: "date", widget: "date"}
       - {label: "Draft", name: "draft", widget: "boolean", default: true}
       #- {label: “Save as Draft”, name: “draft”, required: false, widget: "boolean", default: true}
-      - {label: "Categories", name: "categories", widget: "string", required: true}
+      #- {label: "Categories", name: "categories", widget: "string", required: true}
       - {label: "Tags", name: "tags", widget: "list", required: false}
       - {label: Author, name: author, widget: hidden, default: Le Danh}
       - {label: Commenting, name: comments, widget: boolean, default: true}
@@ -34,7 +34,7 @@ collections:
       - {label: "Publish Date", name: "date", widget: "date"}
       - {label: "Draft", name: "draft", widget: "boolean", default: true}
       #- {label: “Save as Draft”, name: “draft”, required: false, widget: "boolean", default: true}
-      - {label: "Categories", name: "categories", widget: "string", required: true}
+      #- {label: "Categories", name: "categories", widget: "string", required: true}
       - {label: "Tags", name: "tags", widget: "list", required: false}
       - {label: Author, name: author, widget: hidden, default: Le Danh}
       - {label: Commenting, name: comments, widget: boolean, default: true}
