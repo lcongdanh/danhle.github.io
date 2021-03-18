@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://ledanh.cf/"
 languageCode = "en-us"
 title = "Lê Danh"
 theme = "minimal"
