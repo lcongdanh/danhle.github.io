@@ -85,4 +85,4 @@ nếu bạn chưa biết thì CMS, thì nó là chỗ để bạn edit nội dun
 
 Với mình, chỉ cần một trang web đơn giản, nên mình chỉ cần làm được ra sản phẩm ưng ý thôi không cần phải đầu tư học quá nhiều. Hãy để dành thời gian quý báu làm việc khác(xem video mèo trên facebook chẳng hạn).
 
-Trong quá trình làm, bạn nhiều khả năng sẽ giống mình, gặp nhiều lỗi. Đừng rối lên nhé! bình tĩnh. Nhiều người sử dụng rồi nên người ta cũng đã gặp lỗi như bạn, hãy phân tích vấn đề ở đâu để từng bước giải quyết nó. Stackoverflow và Hugo forum*(https://discourse.gohugo.io/t/hugo-as-static-forum-generator/10733)* là hai nơi mình nhận được nhiều giúp đỡ nhất.
+Trong quá trình làm, bạn nhiều khả năng sẽ giống mình, gặp nhiều lỗi. Đừng rối lên nhé! bình tĩnh. Nhiều người sử dụng rồi nên người ta cũng đã gặp lỗi như bạn, hãy phân tích vấn đề ở đâu để từng bước giải quyết nó. Stackoverflow và [Hugo forum](https://discourse.gohugo.io/t/hugo-as-static-forum-generator/10733) là hai nơi mình nhận được nhiều giúp đỡ nhất.
