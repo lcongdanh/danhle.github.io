@@ -27,7 +27,7 @@ img {
 .container img {
     max-width: 50%;
 }
-.content p {
+.content p img {
     text-align: center;
 }
 
