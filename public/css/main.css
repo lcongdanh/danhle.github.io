@@ -24,12 +24,6 @@ main {
 img {
     max-width: 100%;
 }
-.container img {
-    max-width: 50%;
-}
-.content p {
-    text-align: center;
-}
 
 /* Homepage */
 

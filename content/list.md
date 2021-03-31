@@ -22,3 +22,4 @@ Sau đây là Danh sách xô của mình, nếu bạn muốn gợi ý mình đ�
 12. Thăm Studio Ghibli ở Nhật
 13. Làm thơ đỡ dỡ hơn
 14. Học Violin
+15. Học hát

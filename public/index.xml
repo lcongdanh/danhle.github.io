@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lê Danh</title>
+    <link>https://ledanh.cf/</link>
+    <description>Recent content on Lê Danh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://ledanh.cf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>&#34;Danh Sách Xô&#34;</title>
+      <link>https://ledanh.cf/list/</link>
+      <pubDate>Sun, 07 Mar 2021 14:30:36 +0700</pubDate>
+      
+      <guid>https://ledanh.cf/list/</guid>
+      <description>&amp;ldquo;Danh sách xô&amp;rdquo; là cách dịch cà rỡn của mình của từ Bucket List nghĩa là những đều mình muốn làm trước khi chết.
+Sau đây là Danh sách xô của mình, nếu bạn muốn gợi ý mình đều gì đừng ngại cho mình biết nhé:
+ Học một môn võ tự vệ(boxing hoặc Jeet Kune Do) Học tiếng Pháp Chạy bộ dọc theo những con kênh ở Amsterdam Uống cafe và ăn Pizza ở Napoli Thăm những tiệm bánh ngọt ở Paris Leo một ngọn núi Tham gia New York City Marathon Thám hiểm Hang Sơn Đoòng Học lướt sóng Thực hiện chuyến du lịch 6 tháng vòng quanh thế giới Tìm gặp Casey Neistat ở Los Angeles Thăm Studio Ghibli ở Nhật Làm thơ đỡ dỡ hơn Học Violin Học hát  </description>
+    </item>
+    
+    <item>
+      <title>Đôi chút về Mình</title>
+      <link>https://ledanh.cf/about/</link>
+      <pubDate>Sun, 07 Mar 2021 14:30:28 +0700</pubDate>
+      
+      <guid>https://ledanh.cf/about/</guid>
+      <description>Mình là Lê Danh, một Kỹ sư phần mềm ham học hỏi, thích chạy bộ và sống nội tâm.
+Mình đã tự học lập trình với mục tiêu là trở thành một Kỹ sư phần mềm chuyên về Back-end. Đây là những dự án và bài viết mình viết về lập trình.
+Mình tốt nghiệp đại học Cần Thơ chuyên ngành Xây Dựng, sau khi đi làm 1 năm, mình bỏ việc dù không biết bản thân muốn gì.</description>
+    </item>
+    
+  </channel>
+</rss>
