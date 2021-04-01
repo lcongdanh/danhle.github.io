@@ -55,7 +55,7 @@ Cấu trúc thư mục của root và theme giống nhau để làm gì ? (Đi�
 
 Vì nếu bạn cần sửa theme không nên sửa trực tiếp ở thư mục theme mà sửa bên ngoài thư mục root, để root sẽ viết chồng (override) lên theme. Và thêm nữa lỡ bạn có quên hay nhầm gì đó thì có thể quay lại thư mục theme xem lại hoặc copy lại file gốc từ thưc mục theme mang ra root.
 
-![Hugo Themes](uploads/hugothemes.png)
+![Hugo Themes](/uploads/hugothemes.png)
 
 Theme trên Hugo có rất nhiều tùy theo nhu cầu mà chọn. Bạn nên hình dung website của mình sẽ trông như thế nào trước, sau đó chọn gần nhất với nó để đỡ mắc công sửa (lười là căn bệnh quốc dân mà, đừng ngại :D)
 
@@ -63,7 +63,7 @@ Theme trên Hugo có rất nhiều tùy theo nhu cầu mà chọn. Bạn nên h�
 
 Với chức năng Github pages ta có thể host một website miễn phí trên đó.
 
-![Github pages](uploads/githubpages.png)
+![Github pages](/uploads/githubpages.png)
 
 Thực ra bạn cũng có thể deploy website của bạn trên Github luôn nhưng vì Netlify có CMS (content management system) và có nhiều theme để lựa chọn.
 
@@ -77,7 +77,7 @@ Thực ra bạn cũng có thể deploy website của bạn trên Github luôn nh
 
 Netlify cms của mình trông như thế này:
 
-![Netlify CMS](uploads/netlifycms.png)
+![Netlify CMS](/uploads/netlifycms.png)
 
 nếu bạn chưa biết thì CMS, thì nó là chỗ để bạn edit nội dung trước khi đăng lên website, mọi thứ sẽ tiện lợi hơn rất nhiều nếu dùng cms.
 ## **4. Lưu ý khi sử dụng git.**
