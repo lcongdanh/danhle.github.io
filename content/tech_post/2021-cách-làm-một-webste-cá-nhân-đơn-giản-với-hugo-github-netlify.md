@@ -1,7 +1,7 @@
 ---
 title: Cách làm một webste cá nhân đơn giản với Hugo - Github - Netlify
 date: 2021-03-18T14:27:21.507Z
-draft: true
+draft: false
 tags:
   - "#tech#guide#website"
 author: Le Danh
@@ -78,8 +78,9 @@ Netlify cms của mình trông như thế này:
 ![Netlify CMS](uploads/netlifycms.png)
 
 nếu bạn chưa biết thì CMS, thì nó là chỗ để bạn edit nội dung trước khi đăng lên website, mọi thứ sẽ tiện lợi hơn rất nhiều nếu dùng cms.
-
-## **4. Tổng kết - Kinh nghiệm.**
+## **4. Lưu ý khi sử dụng git.**
+Nếu bạn có sử dụng Editorial Workflow trong Netlify CMS, thì lưu ý là khi bạn edit một bài post bằng cms thì netlify sẽ tạo ra một branch trong repo của bạn, khi bạn edit xong bài post và click publish thì branch đó cũng tự merge vào main branch. Lưu ý điểm này để merge khi cần thiết và tránh bị lỗi.
+## **5. Tổng kết - Kinh nghiệm.**
 
 Đây là sơ bộ toàn bộ quá trình, mong bạn đã hình dung ra được mình cần làm gì, có xem tutorial thì cũng sẽ dễ tiếp thu hơn.
 
