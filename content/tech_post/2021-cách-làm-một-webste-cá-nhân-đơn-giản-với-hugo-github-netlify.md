@@ -41,13 +41,13 @@ Hugo là gì? - Như mình nói ở trên Hugo là static site generator, để 
 
 Bên cạnh Hugo cũng có những static site generator khác như: Gatby, Middleman, etc.
 
-![diference kind of static site generators](uploads/sitegenerators.png)
+![diference kind of static site generators](/uploads/sitegenerators.png)
 
 Mình chọn Hugo vì có nhiều theme và tuorials. Hugo khá phổ biến nên lỡ có bị lỗi\[không “lỡ” gì cả nhất định sẽ có lỗi :))] trong quá trình làm mình cũng dễ tìm được cách giải quyết hơn.
 
 Bạn tạo một folder rồi cài Hugo vào đó - chỗ này như là thư mục gốc (root directory) của website, xong Hugo sẽ tạo ra một số folder có cấu trúc trông như thế này đây:
 
-![Hugo folder](uploads/rootdirectory.png)
+![Hugo folder](/uploads/rootdirectory.png)
 
 Khi bạn chưa tải theme về thì sẽ chưa có thư mục theme như trên hình. Sau khi cài thêm về, bạn vào thư mục theme bạn sẽ thấy cấu trúc file của theme giống với root directory.
 
