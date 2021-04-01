@@ -3,7 +3,7 @@ title: Cách làm một webste cá nhân đơn giản với Hugo - Github - Netl
 date: 2021-03-18T14:27:21.507Z
 draft: false
 tags:
-  - "tech guide website"
+  - "tech", "guide", "website"
 author: Le Danh
 comments: true
 share: true
