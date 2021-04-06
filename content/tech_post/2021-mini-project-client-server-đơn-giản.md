@@ -1,5 +1,5 @@
 ---
-title: Mini Project Client - Server đơn giản
+title: Mini Project Server - Client đơn giản
 date: 2021-04-06T12:15:35.541Z
 draft: true
 tags:
@@ -17,22 +17,10 @@ Server
 
 Đầu tiên là set up ServerSocket và chờ kết nối từ Client
 
-Khi accept client để kết nối
+`serverSocket = new ServerSocket(portNumber);`
 
-```
-	public void go() {
-		ServerSocket serverSocket = null;
-		try {
-			serverSocket = new ServerSocket(portNumber);
-			System.out.println("Server has started at port " + serverSocket.getLocalSocketAddress());
-			while(true){
-				Socket clientSocket = serverSocket.accept();
-				ClientJob clientJob = new ClientJob(clientSocket);
-				Thread thread = new Thread(clientJob);
-				thread.start();
-			}
-		} catch (Exception e) {
-			e.printStackTrace();
-		}
-	} // close go method
-```
+Khi accept Client để kết nối mình taọ ra Socket để kết nối lâu dài với Client
+
+`Socket clientSocket = serverSocket.accept();`
+
+Tiếp đến là tạo instance of inner Clas ClientJob - class này để
