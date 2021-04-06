@@ -1,5 +1,5 @@
 ---
-title: Mini Project Server - Client đơn giản
+title: Mini Project Client - Server đơn giản
 date: 2021-04-06T12:15:35.541Z
 draft: true
 tags:
@@ -23,4 +23,17 @@ Khi accept Client để kết nối mình taọ ra Socket để kết nối lâu
 
 `Socket clientSocket = serverSocket.accept();`
 
-Tiếp đến là tạo instance of inner Clas ClientJob - class này để
+Tiếp đến là tạo instance of inner Clas ClientJob - class này để set InputStreamReader và BufferedReader để chuẩn bị đọc tin nhắn từ Client
+
+
+
+```java
+try {
+  socket = clientSocket;
+  InputStreamReader isReader = new InputStreamReader(socket.getInputStream());
+  reader = new BufferedReader(isReader);
+  System.out.println("Waiting for client's message");
+} catch (Exception e) {e.printStackTrace();}
+```
+
+Cũng ở Inner Class ClientJob mình để phần code hiển thị tin nhắn lên terminal
