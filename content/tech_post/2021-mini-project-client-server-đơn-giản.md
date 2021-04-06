@@ -28,12 +28,28 @@ Tiếp đến là tạo instance of inner Clas ClientJob - class này để set 
 
 
 ```java
-try {
-  socket = clientSocket;
-  InputStreamReader isReader = new InputStreamReader(socket.getInputStream());
-  reader = new BufferedReader(isReader);
-  System.out.println("Waiting for client's message");
-} catch (Exception e) {e.printStackTrace();}
+public ClientJob(Socket clientSocket) {
+  try {
+	socket = clientSocket;
+    InputStreamReader isReader = new InputStreamReader(socket.getInputStream());
+	reader = new BufferedReader(isReader);
+	System.out.println("Waiting for client's message");
+  } catch (Exception e) {e.printStackTrace();}
+}
 ```
 
 Cũng ở Inner Class ClientJob mình để phần code hiển thị tin nhắn lên terminal
+
+
+
+```
+@Override
+public void run() {
+  String message;
+  try {
+    while((message = reader.readLine())!= null){
+      System.out.println("message: " + message);
+	}
+  } catch (Exception ex) {ex.printStackTrace();}
+}
+```
