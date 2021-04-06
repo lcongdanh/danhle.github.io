@@ -13,19 +13,19 @@ type: post
 ---
 Mình sẽ tạo ra một client đơn giản gửi text đến server và hiện thị đoạn text đó ở server.
 
-Server
+# Server
 
 Đầu tiên là set up ServerSocket và chờ kết nối từ Client
 
 `serverSocket = new ServerSocket(portNumber);`
 
-Khi accept Client để kết nối mình taọ ra Socket để kết nối lâu dài với Client
+Accept Client kết nối với Client và taọ ra Socket để kết nối lâu dài với Client
 
 `Socket clientSocket = serverSocket.accept();`
 
-Tiếp đến là tạo instance of inner Clas ClientJob - class này để set InputStreamReader và BufferedReader để chuẩn bị đọc tin nhắn từ Client
+Tiếp đến ta tạo instance of Inner Class ClientJob - class này để tạo InputStreamReader và BufferedReader nhằm chuẩn bị đọc tin nhắn từ Client
 
-
+Tất cả mình để vào ClientJob constructor
 
 ```java
 public ClientJob(Socket clientSocket) {
@@ -38,9 +38,7 @@ public ClientJob(Socket clientSocket) {
 }
 ```
 
-Cũng ở Inner Class ClientJob mình để phần code hiển thị tin nhắn lên terminal
-
-
+Cũng ở Inner Class ClientJob mình để phần code hiển thị tin nhắn lên terminal trong run()
 
 ```
 @Override
