@@ -24,7 +24,7 @@ Khi bạn vào được trạng thái Flow mọi năng lượng sẽ dồn vào 
 
 Trong cuốn Flow của Mihaly Csikszentmihalyi ông viết rằng việc học một kỹ năng có bốn trạng thái như sau:
 
-![](uploads/stagesoflearning.png)
+![4 stages of learning](/uploads/stagesoflearning.png)
 
 A1 - Khi vừa bắt đầu học những đều cơ bản, mọi thứ thật mới mẻ làm cho mình thấy hào hứng và phấn khích. Từ A1 có thể dẫn đến A2 hoặc A3.
 
