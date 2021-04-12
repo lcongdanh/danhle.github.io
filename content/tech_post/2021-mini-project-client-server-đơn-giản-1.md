@@ -13,7 +13,7 @@ type: post
 ---
 Sau khi học java được khoảng 1 tháng với cuốn Java Head First, mình đã viết lại phần mềm từ chương 15 của Head First và tham khảo thêm [repo](https://gist.github.com/fliedonion/1002293af6fd043fbd6e729c13018562) này, có cải tiến (ồ! chắc hẳn là “cải tiến”) và chỉnh xửa chút ít theo ý mình. Phần mềm chat gồm có các Clients để gửi tin đến một Server và để Server gửi lại cho các Clients (có thể có nhiều Clients).
 
-![Client - server chat demo](uploads/clientserver.png)
+![Client - server chat demo](/uploads/clientserver.png)
 
 Mình có sử dụng: Thread, ActionListener, GUI cơ bản, Networking Socket. Nghe hoành tráng chứ đơn giản thôi.
 
