@@ -7,7 +7,7 @@ draft: false
      alt="Le Danh's picture"
      style="width: 400px; float: right; margin: 2rem"/>
 
-Mình là Lê Danh, một Kỹ sư phần mềm ham học hỏi, thích chạy bộ và sống nội tâm.
+Mình là Lê Danh, Kỹ sư phần mềm, thích chạy bộ và hay nghĩ vặt.
 
 Mình đã tự học lập trình với mục tiêu là trở thành một Kỹ sư phần mềm chuyên về Back-end. [Đây là những dự án và bài viết mình viết về lập trình](/tech_post).
 
