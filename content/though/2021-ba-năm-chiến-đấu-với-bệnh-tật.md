@@ -19,7 +19,7 @@ Những lúc cơn đau hành hạ, trong đầu mình lại hỏi, tại sao l�
 
 ![Đây là chữ lúc mình cố viết bằng tay trái khi tay phải bị đau](/uploads/cropedversion.jpg "Đây là chữ lúc mình cố viết bằng tay trái khi tay phải bị đau")
 
-*(Đây là chữ lúc mình cố viết bằng tay trái khi tay phải bị đau)*
+<div align="center">*(Đây là chữ lúc mình cố viết bằng tay trái khi tay phải bị đau)*</div>
 
 Bạn gái cũ mình từng nói chuyện tình cảm có lúc thăng lúc trầm. Nhưng đúng lúc trầm này bọn mình đã không giữ được mối quan hệ gần 2 năm của chúng mình. Khi người ta yêu nhau, người kia là đặt biệt nhất, khi không còn bên nhau nữa, đôi ta chỉ là hai người lạ biết nhiều thứ về nhau.
 
