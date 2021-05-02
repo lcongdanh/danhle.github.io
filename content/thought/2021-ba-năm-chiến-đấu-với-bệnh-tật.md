@@ -1,7 +1,7 @@
 ---
 title: Ba Năm Chiến Đấu Với Bệnh Tật
 date: 2021-05-02T11:44:30.581Z
-draft: true
+draft: false
 tags:
   - life
 author: Le Danh
